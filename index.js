@@ -1,4 +1,4 @@
-const public = require('./public/index');
+const public = require('./public');
 
 module.exports = {
   public
