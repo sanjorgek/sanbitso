@@ -11,7 +11,7 @@ const options = (path, qs) => {
     opts.qs = qs;
   }
   return opts;
-}
+};
 
 module.exports = {
   availableBooks(query) {
