@@ -80,4 +80,7 @@ describe("Test APIs", () => {
       .catch(done);
     });
   });
+  describe("Private", () => {
+    
+  })
 });
